@@ -1,4 +1,4 @@
-// Attendance counters
+// Attendance counterss
 let attendeeCount = 0;
 let waterCount = 0;
 let zeroCount = 0;
